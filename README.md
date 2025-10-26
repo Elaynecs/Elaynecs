@@ -40,4 +40,14 @@ Tenho interesse especial por projetos que integrem **tecnologia + saúde + suste
 
 ---
 
+## 🏷️ Badges
+
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23000.svg?style=for-the-badge&logo=figma&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+---
+
 ✨ *"Boas experiências nascem da escuta ativa e do propósito de transformar a vida das pessoas através da tecnologia."*
